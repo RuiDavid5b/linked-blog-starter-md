@@ -4,3 +4,4 @@
 * ~~Add some weight decay to the optimizer;~~
 * Sanity check: Print the attention matrix;
 * Add last 2 validation samples to aim "Text" (either after each epoch or just at the end of the training);
+* Clear aim runs in remote shell (use syncfrom/syncto).
