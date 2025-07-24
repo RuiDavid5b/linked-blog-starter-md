@@ -17,3 +17,10 @@ CosineAnnealingWarmRestarts -> start at 25, restart every 25 epochs after.
 * Baselines
 * Excel
 * Rescrever chapter 2
+
+
+
+
+* Restruturar
+* Related work
+* Methodology
