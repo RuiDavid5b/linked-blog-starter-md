@@ -57,3 +57,9 @@ Treino:
 Buscar pesos com:
 * gradcam
 * peso da 1ª layer attention
+
+
+CLIP oclusão -> pesquisar abordagens para fazer a oclusão 16x16 de modo a omitir informação (92%).
+
+18/09 - 14h
+
